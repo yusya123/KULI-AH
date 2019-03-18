@@ -1,0 +1,18 @@
+{
+  "users": [
+    { "username": "ramadhaniyusya", "email": "yusya@to2k.com", "password": rahmadz }
+],
+  "website": [
+    {
+      "description": "SobatPedia", 
+      "URL": "https://sobatpedia.id"
+    },
+    { 
+      "description": "SobatPedia",
+      "URL": "https://sobatpedia.id/landing"
+    }
+  ],
+  "profile": {
+    "name": "yaelahferr"
+  }
+}
