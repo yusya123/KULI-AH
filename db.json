@@ -1,6 +1,6 @@
 {
   "Biodata": [
-    { "nama": "Ramadhani yusya ", "NIM": "17.01.4049", "alamat":"Jogja", "status":"pelajar", }
+    { "nama": "Ramadhani yusya ", "NIM": "17.01.4049", "alamat":"Jogja", "status":"pelajar" }
 ],
   "sosialmedia": [
     {
@@ -10,7 +10,7 @@
   ],
   "Hoby": [
     {
-    "fotografi", "Futsa;"
+    "nama" : "Futsal"
   },
     ],
   "Pesan": [
