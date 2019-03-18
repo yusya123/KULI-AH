@@ -1,21 +1,17 @@
 {
-  "Biodata": [
-    { "nama": "Ramadhani yusya ", "NIM": "17.01.4049", "alamat":"Jogja", "status":"pelajar" }
+  "users": [
+    { "nama": "yusya dian abdillah", "kelas": "D3TI03", "hobi":"Futsal", "alamat":"jogja", "status":"pelajar" }
 ],
   "sosialmedia": [
     {
       "sosialmedia": "instagram", 
       "URL": "https://www.instagram.com/ramadhaniyusya"
     },
+    { 
+      "sosialmedia": "telegram",
+      "URL": "https://www.facebook.com/yusyaaww"
+    }
   ],
-  "Hoby": [
-    {
-    "nama" : "Futsal"
-  },
-    ],
-  "Pesan": [
-    {
-      " belajar JSON D3 teknik informatika Universitas Amikom Yk"
-    },
-    ],
+  "profile": {
+    "name": "yaelahferr"
 }
