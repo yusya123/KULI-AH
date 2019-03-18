@@ -1,18 +1,21 @@
 {
-  "users": [
-    { "username": "ramadhaniyusya", "email": "yusya@to2k.com", "password": "rahmadz" }
+  "Biodata": [
+    { "nama": "Ramadhani yusya ", "NIM": "17.01.4049", "alamat":"Jogja", "status":"pelajar", }
 ],
-  "website": [
+  "sosialmedia": [
     {
-      "description": "SobatPedia", 
-      "URL": "https://sobatpedia.id"
+      "sosialmedia": "instagram", 
+      "URL": "https://www.instagram.com/ramadhaniyusya"
     },
-    { 
-      "description": "SobatPedia",
-      "URL": "https://sobatpedia.id/landing"
-    }
   ],
-  "profile": {
-    "name": "yaelahferr"
-  }
+  "Hoby": [
+    {
+    "fotografi", "Futsa;"
+  },
+    ],
+  "Pesan": [
+    {
+      " belajar JSON D3 teknik informatika Universitas Amikom Yk"
+    },
+    ],
 }
